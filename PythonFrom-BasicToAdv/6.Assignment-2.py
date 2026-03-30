@@ -10,7 +10,7 @@ mathsMarks=input("enter your maths:")
 percentage=((int(cheMarks)+int(phyMarks)+int(mathsMarks))/300)*100
 
 #print("my name :",Name)
-print("percentage :",perc)
+print("percentage :",percentage)
 
 #Q2.program that collect data multiple times of data from user and store in dictionary and then print tha data
 user_data={} #intilizing a dictionary
