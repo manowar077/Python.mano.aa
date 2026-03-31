@@ -17,6 +17,6 @@ else:
 
 #ternary operator
 age=16
-status="adult" if age >= 18 else "teen"
+stat="adult" if age >= 18 else "teen"
 print(age)
-print(status)
+print(stat)
