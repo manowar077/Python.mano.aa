@@ -33,4 +33,7 @@ age=21
 print("My name is {} ".format(name))
 print("age is {} ".format(age))
 
-
+#f formated
+nam="manowar"
+agee=31
+print(f"my name is {nam} and agge is  {agee}")
