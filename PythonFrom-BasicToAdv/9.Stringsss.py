@@ -36,4 +36,14 @@ print("age is {} ".format(age))
 #f formated
 nam="manowar"
 agee=31
-print(f"my name is {nam} and agge is  {agee}")
+print(f"my name is {nam} and agge is  {agee +5}")
+
+a="hello"
+b="suno na"
+print(a+b)
+print(a*2)
+
+if "h" in a:
+    print("yes")
+else:
+    print("no")
