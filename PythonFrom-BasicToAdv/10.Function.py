@@ -4,3 +4,9 @@ def greet():
 greet()
 
 
+#adding two no
+def add2numbers(num1 ,num2):
+    result = num1 + num2
+    print(result)
+
+add2numbers(10,30)
