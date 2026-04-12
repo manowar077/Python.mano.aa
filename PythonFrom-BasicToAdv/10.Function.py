@@ -23,3 +23,7 @@ print(s.upper())
 s="   hello    "
 print(s.strip())
 
+
+#replace the substring
+s="i like java"
+print(s.replace("java","python"))
