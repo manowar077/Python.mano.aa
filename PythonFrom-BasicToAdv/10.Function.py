@@ -15,5 +15,11 @@ add2numbers(10,30)
 s="hello"
 print(s.lower())
 
+#covert to uppercase
+s="hello"
+print(s.upper())
 
+#remove space from begining and end
+s="   hello    "
+print(s.strip())
 
