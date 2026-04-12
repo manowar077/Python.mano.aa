@@ -37,3 +37,12 @@ print(s.find("world"))
 #split
 s=["banana apple mango manowar Aahan"]
 print(s.split())
+
+#join
+lst=['a','b','c']
+print(s.join(lst))
+
+#count
+
+s="banana"
+print(s.count('a'))
