@@ -34,3 +34,6 @@ print(s.replace("java","python"))
 s="hello world"
 print(s.find("world"))
 
+#split
+s=["banana apple mango manowar Aahan"]
+print(s.split())
