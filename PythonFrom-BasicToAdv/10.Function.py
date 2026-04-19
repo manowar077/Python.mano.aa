@@ -55,3 +55,6 @@ sum2num=add2num(10,29)
 print(sum2num)
 
 #the pass statement
+def kuchv():
+    pass
+print("hello")
