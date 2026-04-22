@@ -4,3 +4,14 @@ with open("file1.txt", "r") as f1, open("file2.txt", "r") as f2, open("merged.tx
     f3.write(f2.read())
 
 print("Files merged successfully.")
+
+with open("file1.txt", "r") as f1, open("file2.txt", "r") as f2, open("merged.txt", "w") as f3:
+    content1 = f1.read()
+    content2 = f2.read()
+
+    f3.write(content1)
+    f3.write(content2)
+
+    print(content1 + content2)
+
+print("Files merged successfully.")
