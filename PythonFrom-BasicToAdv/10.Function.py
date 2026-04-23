@@ -58,3 +58,11 @@ print(sum2num)
 def kuchv():
     pass
 print("hello")
+
+
+def area(r):
+    area=3.14*r**2
+    return area
+r=int(input("enter radius:"))
+area=area(r)
+print("area:",area)
