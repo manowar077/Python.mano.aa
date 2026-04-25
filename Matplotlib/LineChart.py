@@ -6,6 +6,7 @@ y = [10, 20, 25, 30]
 
 # Plot
 plt.plot(x, y)
+plt.title("Simple Line Plot")
 
 # Labels and title
 plt.xlabel("X-axis")
