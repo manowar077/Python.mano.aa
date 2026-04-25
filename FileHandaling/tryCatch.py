@@ -6,3 +6,5 @@ try:
     print("result :",result)
 except ZeroDivisionError:
     print("error cannot divide by zero")
+finally:
+    print("this block always executes")
