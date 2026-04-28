@@ -21,3 +21,6 @@ print(a)
 a=[i**2 for i in range(1,100) if i%2==0]
 print(a)
 
+x=["python","java","javascript"]
+for i in enumerate(x ):
+    print(x)
